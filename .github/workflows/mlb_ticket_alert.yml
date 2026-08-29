@@ -1,4 +1,4 @@
-﻿name: MLB Ticket Deal Alert & Daily Digest
+name: MLB Ticket Deal Alert & Daily Digest
 
 on:
   schedule:
@@ -6,6 +6,9 @@ on:
     # And specifically triggers the daily forward-look morning digest at 9:00 AM EDT (13:00 UTC)
     - cron: '0 12,14,16,18,20,22,0 * * *'
   workflow_dispatch: # Allows manual one-click trigger from GitHub website
+
+permissions:
+  contents: write
 
 jobs:
   check-and-alert:

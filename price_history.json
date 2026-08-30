@@ -16,29 +16,29 @@
       "updated_at": "2026-08-29T12:37:39.454534"
     },
     "New York Yankees vs. Boston Red Sox_Sun, Aug 30 @ 01:35 PM": {
-      "qualifying_price": 34.0,
-      "raw_price": 34.0,
-      "updated_at": "2026-08-29T23:52:19.483072"
+      "qualifying_price": 35.0,
+      "raw_price": 35.0,
+      "updated_at": "2026-08-30T03:26:45.485430"
     },
     "New York Mets vs. Houston Astros_Sun, Aug 30 @ 03:10 PM": {
       "qualifying_price": 38.0,
       "raw_price": 12.0,
-      "updated_at": "2026-08-29T23:52:19.483083"
+      "updated_at": "2026-08-30T03:26:45.485440"
     },
     "New York Mets vs. San Francisco Giants_Fri, Sep 04 @ 07:10 PM": {
       "qualifying_price": 38.0,
       "raw_price": 12.0,
-      "updated_at": "2026-08-29T23:52:19.483086"
+      "updated_at": "2026-08-30T03:26:45.485443"
     },
     "New York Mets vs. San Francisco Giants_Sat, Sep 05 @ 04:10 PM": {
       "qualifying_price": 38.0,
       "raw_price": 12.0,
-      "updated_at": "2026-08-29T23:52:19.483088"
+      "updated_at": "2026-08-30T03:26:45.485445"
     },
     "New York Mets vs. San Francisco Giants_Sun, Sep 06 @ 01:40 PM": {
       "qualifying_price": 38.0,
       "raw_price": 11.0,
-      "updated_at": "2026-08-29T23:52:19.483090"
+      "updated_at": "2026-08-30T03:26:45.485447"
     },
     "New York Yankees vs. Colorado Rockies_Tue, Sep 08 @ 07:05 PM": {
       "qualifying_price": 62.0,
@@ -46,14 +46,14 @@
       "updated_at": "2026-08-29T12:37:39.454534"
     },
     "New York Yankees vs. Colorado Rockies_Wed, Sep 09 @ 07:05 PM": {
-      "qualifying_price": 7.0,
-      "raw_price": 7.0,
-      "updated_at": "2026-08-29T23:52:19.483093"
+      "qualifying_price": 8.0,
+      "raw_price": 8.0,
+      "updated_at": "2026-08-30T03:26:45.485450"
     },
     "New York Yankees vs. Colorado Rockies_Thu, Sep 10 @ 07:05 PM": {
       "qualifying_price": 13.0,
       "raw_price": 13.0,
-      "updated_at": "2026-08-29T23:52:19.483095"
+      "updated_at": "2026-08-30T03:26:45.485452"
     },
     "New York Yankees vs. New York Mets_Fri, Sep 11 @ 07:05 PM": {
       "price": 102.0,
@@ -70,40 +70,40 @@
       "updated_at": "2026-08-29T12:37:39.454534"
     },
     "New York Mets vs. Baltimore Orioles_Mon, Sep 14 @ 07:10 PM": {
-      "qualifying_price": 41.8,
-      "raw_price": 19.0,
-      "updated_at": "2026-08-29T23:52:19.483098"
+      "qualifying_price": 37.4,
+      "raw_price": 17.0,
+      "updated_at": "2026-08-30T03:26:45.485456"
     },
     "New York Mets vs. Baltimore Orioles_Tue, Sep 15 @ 07:10 PM": {
       "qualifying_price": 38.0,
       "raw_price": 12.0,
-      "updated_at": "2026-08-29T23:52:19.483100"
+      "updated_at": "2026-08-30T03:26:45.485458"
     },
     "New York Mets vs. Baltimore Orioles_Wed, Sep 16 @ 07:10 PM": {
       "qualifying_price": 38.0,
       "raw_price": 8.0,
-      "updated_at": "2026-08-29T23:52:19.483102"
+      "updated_at": "2026-08-30T03:26:45.485459"
     },
     "New York Mets vs. Philadelphia Phillies_Thu, Sep 17 @ 07:15 PM": {
       "qualifying_price": 38.0,
       "raw_price": 10.0,
-      "updated_at": "2026-08-29T23:52:19.483104"
+      "updated_at": "2026-08-30T03:26:45.485461"
     },
     "New York Mets vs. Philadelphia Phillies_Fri, Sep 18 @ 07:15 PM": {
       "qualifying_price": 38.0,
       "raw_price": 11.0,
-      "updated_at": "2026-08-29T23:52:19.483105"
+      "updated_at": "2026-08-30T03:26:45.485463"
     },
     "New York Mets vs. Philadelphia Phillies_Sat, Sep 19 @ 04:10 PM": {
-      "qualifying_price": 44.0,
-      "raw_price": 20.0,
-      "updated_at": "2026-08-29T23:52:19.483107"
+      "qualifying_price": 46.2,
+      "raw_price": 21.0,
+      "updated_at": "2026-08-30T03:26:45.485465"
     },
     "New York Mets vs. Philadelphia Phillies_Sun, Sep 20 @ 01:10 PM": {
       "qualifying_price": 38.0,
       "raw_price": 13.0,
-      "updated_at": "2026-08-29T23:52:19.483109"
+      "updated_at": "2026-08-30T03:26:45.485466"
     }
   },
-  "last_daily_digest": "2026-08-29"
+  "last_daily_digest": "2026-08-30"
 }

@@ -28,32 +28,32 @@
     "New York Mets vs. San Francisco Giants_Fri, Sep 04 @ 07:10 PM": {
       "qualifying_price": 38.0,
       "raw_price": 13.0,
-      "updated_at": "2026-09-02T02:43:09.235535"
+      "updated_at": "2026-09-02T15:55:42.170592"
     },
     "New York Mets vs. San Francisco Giants_Sat, Sep 05 @ 04:10 PM": {
       "qualifying_price": 38.0,
-      "raw_price": 13.0,
-      "updated_at": "2026-09-02T02:43:09.235546"
+      "raw_price": 14.0,
+      "updated_at": "2026-09-02T15:55:42.170602"
     },
     "New York Mets vs. San Francisco Giants_Sun, Sep 06 @ 01:40 PM": {
       "qualifying_price": 38.0,
       "raw_price": 12.0,
-      "updated_at": "2026-09-02T02:43:09.235550"
+      "updated_at": "2026-09-02T15:55:42.170605"
     },
     "New York Yankees vs. Colorado Rockies_Tue, Sep 08 @ 07:05 PM": {
-      "qualifying_price": 50.0,
-      "raw_price": 50.0,
-      "updated_at": "2026-09-02T02:43:09.235552"
+      "qualifying_price": 46.0,
+      "raw_price": 46.0,
+      "updated_at": "2026-09-02T15:55:42.170608"
     },
     "New York Yankees vs. Colorado Rockies_Wed, Sep 09 @ 07:05 PM": {
-      "qualifying_price": 9.0,
-      "raw_price": 9.0,
-      "updated_at": "2026-09-02T02:43:09.235554"
+      "qualifying_price": 10.0,
+      "raw_price": 10.0,
+      "updated_at": "2026-09-02T15:55:42.170610"
     },
     "New York Yankees vs. Colorado Rockies_Thu, Sep 10 @ 07:05 PM": {
-      "qualifying_price": 13.0,
-      "raw_price": 13.0,
-      "updated_at": "2026-09-02T02:43:09.235556"
+      "qualifying_price": 14.0,
+      "raw_price": 14.0,
+      "updated_at": "2026-09-02T15:55:42.170612"
     },
     "New York Yankees vs. New York Mets_Fri, Sep 11 @ 07:05 PM": {
       "price": 102.0,
@@ -70,54 +70,54 @@
       "updated_at": "2026-08-31T23:35:55.864822"
     },
     "New York Mets vs. Baltimore Orioles_Mon, Sep 14 @ 07:10 PM": {
-      "qualifying_price": 44.0,
-      "raw_price": 20.0,
-      "updated_at": "2026-09-02T02:43:09.235560"
+      "qualifying_price": 37.4,
+      "raw_price": 17.0,
+      "updated_at": "2026-09-02T15:55:42.170616"
     },
     "New York Mets vs. Baltimore Orioles_Tue, Sep 15 @ 07:10 PM": {
       "qualifying_price": 38.0,
       "raw_price": 12.0,
-      "updated_at": "2026-09-02T02:43:09.235562"
+      "updated_at": "2026-09-02T15:55:42.170618"
     },
     "New York Mets vs. Baltimore Orioles_Wed, Sep 16 @ 07:10 PM": {
       "qualifying_price": 38.0,
       "raw_price": 10.0,
-      "updated_at": "2026-09-02T02:43:09.235565"
+      "updated_at": "2026-09-02T15:55:42.170620"
     },
     "New York Mets vs. Philadelphia Phillies_Thu, Sep 17 @ 07:15 PM": {
       "qualifying_price": 38.0,
       "raw_price": 11.0,
-      "updated_at": "2026-09-02T02:43:09.235567"
+      "updated_at": "2026-09-02T15:55:42.170622"
     },
     "New York Mets vs. Philadelphia Phillies_Fri, Sep 18 @ 07:15 PM": {
       "qualifying_price": 38.0,
       "raw_price": 11.0,
-      "updated_at": "2026-09-02T02:43:09.235568"
+      "updated_at": "2026-09-02T15:55:42.170623"
     },
     "New York Mets vs. Philadelphia Phillies_Sat, Sep 19 @ 04:10 PM": {
       "qualifying_price": 39.6,
       "raw_price": 18.0,
-      "updated_at": "2026-09-02T02:43:09.235570"
+      "updated_at": "2026-09-02T15:55:42.170625"
     },
     "New York Mets vs. Philadelphia Phillies_Sun, Sep 20 @ 01:10 PM": {
       "qualifying_price": 38.0,
-      "raw_price": 15.0,
-      "updated_at": "2026-09-02T02:43:09.235571"
+      "raw_price": 14.0,
+      "updated_at": "2026-09-02T15:55:42.170627"
     },
     "New York Yankees vs. Tampa Bay Rays_Tue, Sep 22 @ 01:05 PM": {
       "qualifying_price": 14.0,
       "raw_price": 14.0,
-      "updated_at": "2026-09-02T02:43:09.235573"
+      "updated_at": "2026-09-02T15:55:42.170629"
     },
     "New York Yankees vs. Tampa Bay Rays_Tue, Sep 22 @ 07:05 PM": {
       "qualifying_price": 6.0,
       "raw_price": 6.0,
-      "updated_at": "2026-09-02T02:43:09.235575"
+      "updated_at": "2026-09-02T15:55:42.170630"
     },
     "New York Yankees vs. Tampa Bay Rays_Wed, Sep 23 @ 07:05 PM": {
       "qualifying_price": 7.0,
       "raw_price": 7.0,
-      "updated_at": "2026-09-02T02:43:09.235576"
+      "updated_at": "2026-09-02T15:55:42.170632"
     }
   },
   "last_daily_digest": "2026-09-02"

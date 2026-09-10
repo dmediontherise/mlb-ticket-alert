@@ -51,9 +51,9 @@
       "updated_at": "2026-09-09T19:03:07.474473"
     },
     "New York Yankees vs. Colorado Rockies_Thu, Sep 10 @ 07:05 PM": {
-      "qualifying_price": 16.0,
-      "raw_price": 16.0,
-      "updated_at": "2026-09-09T22:14:24.373135"
+      "qualifying_price": 12.0,
+      "raw_price": 12.0,
+      "updated_at": "2026-09-10T02:56:47.139144"
     },
     "New York Yankees vs. New York Mets_Fri, Sep 11 @ 07:05 PM": {
       "price": 102.0,
@@ -70,75 +70,75 @@
       "updated_at": "2026-08-31T23:35:55.864822"
     },
     "New York Mets vs. Baltimore Orioles_Mon, Sep 14 @ 07:10 PM": {
-      "qualifying_price": 44.0,
-      "raw_price": 20.0,
-      "updated_at": "2026-09-09T22:14:24.373147"
+      "qualifying_price": 41.8,
+      "raw_price": 19.0,
+      "updated_at": "2026-09-10T02:56:47.139158"
     },
     "New York Mets vs. Baltimore Orioles_Tue, Sep 15 @ 07:10 PM": {
       "qualifying_price": 38.0,
       "raw_price": 12.0,
-      "updated_at": "2026-09-09T22:14:24.373149"
+      "updated_at": "2026-09-10T02:56:47.139160"
     },
     "New York Mets vs. Baltimore Orioles_Wed, Sep 16 @ 07:10 PM": {
       "qualifying_price": 38.0,
-      "raw_price": 12.0,
-      "updated_at": "2026-09-09T22:14:24.373152"
+      "raw_price": 11.0,
+      "updated_at": "2026-09-10T02:56:47.139162"
     },
     "New York Mets vs. Philadelphia Phillies_Thu, Sep 17 @ 07:15 PM": {
       "qualifying_price": 38.0,
       "raw_price": 12.0,
-      "updated_at": "2026-09-09T22:14:24.373180"
+      "updated_at": "2026-09-10T02:56:47.139164"
     },
     "New York Mets vs. Philadelphia Phillies_Fri, Sep 18 @ 07:15 PM": {
-      "qualifying_price": 35.2,
-      "raw_price": 16.0,
-      "updated_at": "2026-09-09T22:14:24.373186"
+      "qualifying_price": 38.0,
+      "raw_price": 15.0,
+      "updated_at": "2026-09-10T02:56:47.139166"
     },
     "New York Mets vs. Philadelphia Phillies_Sat, Sep 19 @ 04:10 PM": {
-      "qualifying_price": 46.2,
-      "raw_price": 21.0,
-      "updated_at": "2026-09-09T22:14:24.373189"
+      "qualifying_price": 48.4,
+      "raw_price": 22.0,
+      "updated_at": "2026-09-10T02:56:47.139167"
     },
     "New York Mets vs. Philadelphia Phillies_Sun, Sep 20 @ 01:10 PM": {
       "qualifying_price": 38.0,
       "raw_price": 15.0,
-      "updated_at": "2026-09-09T22:14:24.373193"
+      "updated_at": "2026-09-10T02:56:47.139169"
     },
     "New York Yankees vs. Tampa Bay Rays_Tue, Sep 22 @ 01:05 PM": {
       "qualifying_price": 17.0,
       "raw_price": 17.0,
-      "updated_at": "2026-09-09T22:14:24.373196"
+      "updated_at": "2026-09-10T02:56:47.139171"
     },
     "New York Yankees vs. Tampa Bay Rays_Tue, Sep 22 @ 07:05 PM": {
       "qualifying_price": 10.0,
       "raw_price": 10.0,
-      "updated_at": "2026-09-09T22:14:24.373200"
+      "updated_at": "2026-09-10T02:56:47.139173"
     },
     "New York Yankees vs. Tampa Bay Rays_Wed, Sep 23 @ 07:05 PM": {
       "qualifying_price": 7.0,
       "raw_price": 7.0,
-      "updated_at": "2026-09-09T22:14:24.373205"
+      "updated_at": "2026-09-10T02:56:47.139175"
     },
     "New York Yankees vs. Tampa Bay Rays_Thu, Sep 24 @ 07:05 PM": {
-      "qualifying_price": 10.0,
-      "raw_price": 10.0,
-      "updated_at": "2026-09-09T22:14:24.373208"
+      "qualifying_price": 11.0,
+      "raw_price": 11.0,
+      "updated_at": "2026-09-10T02:56:47.139177"
     },
     "New York Yankees vs. Baltimore Orioles_Fri, Sep 25 @ 07:05 PM": {
       "qualifying_price": 30.0,
       "raw_price": 30.0,
-      "updated_at": "2026-09-09T22:14:24.373211"
+      "updated_at": "2026-09-10T02:56:47.139179"
     },
     "New York Yankees vs. Baltimore Orioles_Sat, Sep 26 @ 07:15 PM": {
       "qualifying_price": 28.0,
       "raw_price": 28.0,
-      "updated_at": "2026-09-09T22:14:24.373214"
+      "updated_at": "2026-09-10T02:56:47.139182"
     },
     "New York Yankees vs. Baltimore Orioles_Sun, Sep 27 @ 03:20 PM": {
       "qualifying_price": 19.0,
       "raw_price": 19.0,
-      "updated_at": "2026-09-09T22:14:24.373217"
+      "updated_at": "2026-09-10T02:56:47.139186"
     }
   },
-  "last_daily_digest": "2026-09-09"
+  "last_daily_digest": "2026-09-10"
 }

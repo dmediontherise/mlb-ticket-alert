@@ -101,43 +101,43 @@
     },
     "New York Mets vs. Philadelphia Phillies_Sun, Sep 20 @ 01:10 PM": {
       "qualifying_price": 38.0,
-      "raw_price": 9.0,
-      "updated_at": "2026-09-19T18:23:27.442482"
+      "raw_price": 10.0,
+      "updated_at": "2026-09-19T22:05:10.802696"
     },
     "New York Yankees vs. Tampa Bay Rays_Tue, Sep 22 @ 01:05 PM": {
-      "qualifying_price": 12.0,
-      "raw_price": 12.0,
-      "updated_at": "2026-09-19T18:23:27.442496"
+      "qualifying_price": 11.0,
+      "raw_price": 11.0,
+      "updated_at": "2026-09-19T22:05:10.802707"
     },
     "New York Yankees vs. Tampa Bay Rays_Tue, Sep 22 @ 07:05 PM": {
       "qualifying_price": 8.0,
       "raw_price": 8.0,
-      "updated_at": "2026-09-19T18:23:27.442500"
+      "updated_at": "2026-09-19T22:05:10.802711"
     },
     "New York Yankees vs. Tampa Bay Rays_Wed, Sep 23 @ 07:05 PM": {
       "qualifying_price": 9.0,
       "raw_price": 9.0,
-      "updated_at": "2026-09-19T18:23:27.442502"
+      "updated_at": "2026-09-19T22:05:10.802713"
     },
     "New York Yankees vs. Tampa Bay Rays_Thu, Sep 24 @ 07:05 PM": {
-      "qualifying_price": 10.0,
-      "raw_price": 10.0,
-      "updated_at": "2026-09-19T18:23:27.442505"
+      "qualifying_price": 8.0,
+      "raw_price": 8.0,
+      "updated_at": "2026-09-19T22:05:10.802932"
     },
     "New York Yankees vs. Baltimore Orioles_Fri, Sep 25 @ 07:05 PM": {
       "qualifying_price": 34.0,
       "raw_price": 34.0,
-      "updated_at": "2026-09-19T18:23:27.442507"
+      "updated_at": "2026-09-19T22:05:10.802938"
     },
     "New York Yankees vs. Baltimore Orioles_Sat, Sep 26 @ 07:15 PM": {
       "qualifying_price": 23.0,
       "raw_price": 23.0,
-      "updated_at": "2026-09-19T18:23:27.442510"
+      "updated_at": "2026-09-19T22:05:10.802940"
     },
     "New York Yankees vs. Baltimore Orioles_Sun, Sep 27 @ 03:20 PM": {
-      "qualifying_price": 16.0,
-      "raw_price": 16.0,
-      "updated_at": "2026-09-19T18:23:27.442513"
+      "qualifying_price": 19.0,
+      "raw_price": 19.0,
+      "updated_at": "2026-09-19T22:05:10.802942"
     }
   },
   "last_daily_digest": "2026-09-19"

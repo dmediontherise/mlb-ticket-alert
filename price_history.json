@@ -105,40 +105,40 @@
       "updated_at": "2026-09-20T03:13:55.535363"
     },
     "New York Yankees vs. Tampa Bay Rays_Tue, Sep 22 @ 01:05 PM": {
-      "qualifying_price": 14.0,
-      "raw_price": 14.0,
-      "updated_at": "2026-09-20T22:09:54.806356"
+      "qualifying_price": 13.0,
+      "raw_price": 13.0,
+      "updated_at": "2026-09-21T03:10:07.183388"
     },
     "New York Yankees vs. Tampa Bay Rays_Tue, Sep 22 @ 07:05 PM": {
-      "qualifying_price": 7.0,
-      "raw_price": 7.0,
-      "updated_at": "2026-09-20T22:09:54.806367"
+      "qualifying_price": 8.0,
+      "raw_price": 8.0,
+      "updated_at": "2026-09-21T03:10:07.183402"
     },
     "New York Yankees vs. Tampa Bay Rays_Wed, Sep 23 @ 07:05 PM": {
-      "qualifying_price": 10.0,
-      "raw_price": 10.0,
-      "updated_at": "2026-09-20T22:09:54.806369"
+      "qualifying_price": 8.0,
+      "raw_price": 8.0,
+      "updated_at": "2026-09-21T03:10:07.183552"
     },
     "New York Yankees vs. Tampa Bay Rays_Thu, Sep 24 @ 07:05 PM": {
       "qualifying_price": 8.0,
       "raw_price": 8.0,
-      "updated_at": "2026-09-20T22:09:54.806371"
+      "updated_at": "2026-09-21T03:10:07.183557"
     },
     "New York Yankees vs. Baltimore Orioles_Fri, Sep 25 @ 07:05 PM": {
-      "qualifying_price": 30.0,
-      "raw_price": 30.0,
-      "updated_at": "2026-09-20T22:09:54.806373"
+      "qualifying_price": 32.0,
+      "raw_price": 32.0,
+      "updated_at": "2026-09-21T03:10:07.183559"
     },
     "New York Yankees vs. Baltimore Orioles_Sat, Sep 26 @ 07:15 PM": {
       "qualifying_price": 23.0,
       "raw_price": 23.0,
-      "updated_at": "2026-09-20T22:09:54.806374"
+      "updated_at": "2026-09-21T03:10:07.183562"
     },
     "New York Yankees vs. Baltimore Orioles_Sun, Sep 27 @ 03:20 PM": {
       "qualifying_price": 18.0,
       "raw_price": 18.0,
-      "updated_at": "2026-09-20T22:09:54.806394"
+      "updated_at": "2026-09-21T03:10:07.183564"
     }
   },
-  "last_daily_digest": "2026-09-20"
+  "last_daily_digest": "2026-09-21"
 }

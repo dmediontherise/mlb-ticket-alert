@@ -105,39 +105,39 @@
       "updated_at": "2026-09-20T03:13:55.535363"
     },
     "New York Yankees vs. Tampa Bay Rays_Tue, Sep 22 @ 01:05 PM": {
-      "qualifying_price": 13.0,
-      "raw_price": 13.0,
-      "updated_at": "2026-09-21T03:10:07.183388"
+      "qualifying_price": 12.0,
+      "raw_price": 12.0,
+      "updated_at": "2026-09-21T17:49:32.986114"
     },
     "New York Yankees vs. Tampa Bay Rays_Tue, Sep 22 @ 07:05 PM": {
-      "qualifying_price": 8.0,
-      "raw_price": 8.0,
-      "updated_at": "2026-09-21T03:10:07.183402"
+      "qualifying_price": 7.0,
+      "raw_price": 7.0,
+      "updated_at": "2026-09-21T17:49:32.986123"
     },
     "New York Yankees vs. Tampa Bay Rays_Wed, Sep 23 @ 07:05 PM": {
-      "qualifying_price": 8.0,
-      "raw_price": 8.0,
-      "updated_at": "2026-09-21T03:10:07.183552"
+      "qualifying_price": 7.0,
+      "raw_price": 7.0,
+      "updated_at": "2026-09-21T17:49:32.986126"
     },
     "New York Yankees vs. Tampa Bay Rays_Thu, Sep 24 @ 07:05 PM": {
       "qualifying_price": 8.0,
       "raw_price": 8.0,
-      "updated_at": "2026-09-21T03:10:07.183557"
+      "updated_at": "2026-09-21T17:49:32.986128"
     },
     "New York Yankees vs. Baltimore Orioles_Fri, Sep 25 @ 07:05 PM": {
-      "qualifying_price": 32.0,
-      "raw_price": 32.0,
-      "updated_at": "2026-09-21T03:10:07.183559"
+      "qualifying_price": 30.0,
+      "raw_price": 30.0,
+      "updated_at": "2026-09-21T17:49:32.986130"
     },
     "New York Yankees vs. Baltimore Orioles_Sat, Sep 26 @ 07:15 PM": {
-      "qualifying_price": 23.0,
-      "raw_price": 23.0,
-      "updated_at": "2026-09-21T03:10:07.183562"
+      "qualifying_price": 24.0,
+      "raw_price": 24.0,
+      "updated_at": "2026-09-21T17:49:32.986132"
     },
     "New York Yankees vs. Baltimore Orioles_Sun, Sep 27 @ 03:20 PM": {
-      "qualifying_price": 18.0,
-      "raw_price": 18.0,
-      "updated_at": "2026-09-21T03:10:07.183564"
+      "qualifying_price": 16.0,
+      "raw_price": 16.0,
+      "updated_at": "2026-09-21T17:49:32.986134"
     }
   },
   "last_daily_digest": "2026-09-21"
